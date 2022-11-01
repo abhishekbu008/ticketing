@@ -44,11 +44,11 @@
 
 ## Overview
 
-![screenshot](https://github.com/abhishekbu008/ticketing/blob/master/screenshots/list-tickets.png)
-![screenshot](https://github.com/abhishekbu008/ticketing/blob/master/screenshots/view-ticket.png)
-![screenshot](https://github.com/abhishekbu008/ticketing/blob/master/screenshots/payment-page.png)
-![screenshot](https://github.com/abhishekbu008/ticketing/blob/master/screenshots/credit-card.png)
-![screenshot](https://github.com/abhishekbu008/ticketing/blob/master/screenshots/credit-fill.png)
+![screenshot](https://github.com/abhishekbu008/ticketing/blob/master/images/list-tickets.png)
+![screenshot](https://github.com/abhishekbu008/ticketing/blob/master/images/view-ticket.png)
+![screenshot](https://github.com/abhishekbu008/ticketing/blob/master/images/payment-page.png)
+![screenshot](https://github.com/abhishekbu008/ticketing/blob/master/images/credit-card.png)
+![screenshot](https://github.com/abhishekbu008/ticketing/blob/master/images/credit-fill.png)
 
 ## Contact
 
