@@ -32,7 +32,7 @@
 
 <!-- List the features of your application or follow the template. Don't share the figma file here :) -->
 
-- Built with microservice with event driven architecture.
+- Built with microservice and event driven architecture.
 - Each service is containerized using Docker and Kubernetes.
 - Integrated with Stripe API for payment service.
 - Architecture uses Event bus, cross service data replication for async communication.
