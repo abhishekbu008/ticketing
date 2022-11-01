@@ -10,8 +10,8 @@
 
 ## Table of Contents
 
-- [Overview](#overview)
-  - [Built With](#built-with)
+- [Screenshots](#Screenshots)
+- [Built With](#built-with)
 - [Features](#features)
 - [Contact](#contact)
 
@@ -40,9 +40,9 @@
 - JSON web token is used for Authentication.
 - Architecture is highly scalable and reliable.
 
-<!-- OVERVIEW -->
+<!-- Screenshots -->
 
-## Overview
+## Screenshots
 
 ![screenshot](https://github.com/abhishekbu008/ticketing/blob/master/images/list-tickets.png)
 ![screenshot](https://github.com/abhishekbu008/ticketing/blob/master/images/view-ticket.png)
