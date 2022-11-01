@@ -19,11 +19,11 @@
 
 ## Overview
 
-![screenshot](https://github.com/abhishekbu008/ticketing/tree/blob/master/screenshots/list-tickets.png)
-![screenshot](https://github.com/abhishekbu008/ticketing/tree/blob/master/screenshots/view-ticket.png)
-![screenshot](https://github.com/abhishekbu008/ticketing/tree/blob/master/screenshots/payment-page.png)
-![screenshot](https://github.com/abhishekbu008/ticketing/tree/blob/master/screenshots/credit-card.png)
-![screenshot](https://github.com/abhishekbu008/ticketing/tree/blob/master/screenshots/credit-fill.png)
+![screenshot](https://github.com/abhishekbu008/ticketing/blob/master/screenshots/list-tickets.png)
+![screenshot](https://github.com/abhishekbu008/ticketing/blob/master/screenshots/view-ticket.png)
+![screenshot](https://github.com/abhishekbu008/ticketing/blob/master/screenshots/payment-page.png)
+![screenshot](https://github.com/abhishekbu008/ticketing/blob/master/screenshots/credit-card.png)
+![screenshot](https://github.com/abhishekbu008/ticketing/blob/master/screenshots/credit-fill.png)
 
 ### Built With
 
